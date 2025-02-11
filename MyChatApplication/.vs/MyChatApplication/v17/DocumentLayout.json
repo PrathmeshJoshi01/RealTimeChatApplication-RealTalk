@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshi\\OneDrive\\Desktop\\Projects\\CDAC\\RealTimeChatApplication-RealTalk\\MyChatApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70F1F6-D49F-48BA-9B97-AD6512D17E23}|MyChatApplication\\MyChatApplication.csproj|c:\\users\\joshi\\onedrive\\desktop\\projects\\cdac\\realtimechatapplication-realtalk\\mychatapplication\\mychatapplication\\connecteduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D70F1F6-D49F-48BA-9B97-AD6512D17E23}|MyChatApplication\\MyChatApplication.csproj|solutionrelative:mychatapplication\\connecteduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D70F1F6-D49F-48BA-9B97-AD6512D17E23}|MyChatApplication\\MyChatApplication.csproj|c:\\users\\joshi\\onedrive\\desktop\\projects\\cdac\\realtimechatapplication-realtalk\\mychatapplication\\mychatapplication\\views\\home\\showconnectedusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D70F1F6-D49F-48BA-9B97-AD6512D17E23}|MyChatApplication\\MyChatApplication.csproj|solutionrelative:mychatapplication\\views\\home\\showconnectedusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectedUser.cs",
+              "DocumentMoniker": "C:\\Users\\joshi\\OneDrive\\Desktop\\Projects\\CDAC\\RealTimeChatApplication-RealTalk\\MyChatApplication\\MyChatApplication\\ConnectedUser.cs",
+              "RelativeDocumentMoniker": "MyChatApplication\\ConnectedUser.cs",
+              "ToolTip": "C:\\Users\\joshi\\OneDrive\\Desktop\\Projects\\CDAC\\RealTimeChatApplication-RealTalk\\MyChatApplication\\MyChatApplication\\ConnectedUser.cs",
+              "RelativeToolTip": "MyChatApplication\\ConnectedUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:09:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowConnectedUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshi\\OneDrive\\Desktop\\Projects\\CDAC\\RealTimeChatApplication-RealTalk\\MyChatApplication\\MyChatApplication\\Views\\Home\\ShowConnectedUsers.cshtml",
+              "RelativeDocumentMoniker": "MyChatApplication\\Views\\Home\\ShowConnectedUsers.cshtml",
+              "ToolTip": "C:\\Users\\joshi\\OneDrive\\Desktop\\Projects\\CDAC\\RealTimeChatApplication-RealTalk\\MyChatApplication\\MyChatApplication\\Views\\Home\\ShowConnectedUsers.cshtml",
+              "RelativeToolTip": "MyChatApplication\\Views\\Home\\ShowConnectedUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T19:05:37.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
